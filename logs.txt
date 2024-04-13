@@ -1,0 +1,35 @@
+commit d338fea425fcf48f8d622b3b08d18de7de7c8ae7 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Nina551 <nina.naumovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 16:21:30 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a3dedc152371359ddbc179c868bca47e90ddf9b3
+Author: Nina551 <nina.naumovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 16:18:26 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 0c5d88cb21f2fd612b597d4c7d35c66c87c3bd44 (origin/bug1, bug1)
+Author: Nina551 <nina.naumovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 16:20:11 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit f2640d7c5684bba57393ab0d465c61fccb178f53
+Author: Nina551 <nina.naumovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 16:17:31 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 72bf4ccf4d49cae9082c7c46be6d1960ebcc18ed
+Author: Nina551 <nina.naumovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 16:14:33 2024 +0200
+
+    Add starter code
+
+commit 6bfd7f88bbb70b370580f394b657aec2751dd3f6
+Author: Nina551 <nina.naumovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 16:10:14 2024 +0200
+
+    Initial commit
